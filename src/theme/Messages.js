@@ -1,0 +1,15 @@
+export default Messages = {
+  NetWorkError: 'No internet connection.',
+  LoginSuccess: 'Congratulation, you are here now.',
+  InputFirstName: 'Please input your firstname.',
+  InputLastName: 'Please input your lastname.',
+  InputPhone: 'Please input your phone.',
+  InputEmail: 'Please input your email.',
+  InputPassword: 'Please input your password.',
+  EmailFormat: 'The email format is incorrect.',
+  PasswordMore8Letters: 'The password must be more 8 letters.',
+  PasswordIncludeLetter: 'The password must be include letter.',
+  PasswordIncludeCapital: 'The password must be include capital letter.',
+  PasswordIncludeNumber: 'The password must be include number.',
+  PasswordMatch: 'Please match your password.',
+};
