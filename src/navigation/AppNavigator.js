@@ -4,7 +4,7 @@ import {createStackNavigator} from '@react-navigation/stack';
 
 import LoginScreen from '../screens/LoginScreen';
 import FirstScreen from '../screens/FirstScreen';
-import SignUpScreen from '../screens/SignUpScreen';
+import SignUpScreen from '../screens/SignupScreen';
 import ForgotPasswordScreen from '../screens/ForgotPasswordScreen';
 import ForgotPasswordResetScreen from '../screens/ForgotPasswordResetScreen';
 import VerificationScreen from '../screens/VerificationScreen';
